@@ -41,7 +41,7 @@ namespace DataDrivenWithExamplesProject.PageObject
         {
             Random randomGenerator = new Random();
             int randomInt = randomGenerator.Next(1000);
-            EmailText.SendKeys(Email + randomInt + "test.com");
+            EmailText.SendKeys(Email + randomInt + "@test.com");
             //Email.SendKeys(email);
         }
 

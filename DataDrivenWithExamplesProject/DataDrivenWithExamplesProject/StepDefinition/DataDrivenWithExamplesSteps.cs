@@ -52,11 +52,12 @@ namespace DataDrivenWithExamplesProject.StepDefinition
             dataDrivenWithExamplesPage.ClickOnSignUpButton();
         }
 
-        [Then(@"I can regster successfully")]
+        [Then(@"I can register successfully")]
         public void ThenICanRegisterSuccessfully()
         {
             Thread.Sleep(5000);
             Assert.That(dataDrivenWithExamplesPage.IsNewArticleDisplayed);
         }
+
     }
 }

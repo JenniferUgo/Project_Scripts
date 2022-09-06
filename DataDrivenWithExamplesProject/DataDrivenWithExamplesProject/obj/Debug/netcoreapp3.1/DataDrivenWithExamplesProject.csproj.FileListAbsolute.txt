@@ -101,6 +101,7 @@ C:\Users\jenni\source\repos\GithubRepo\Project_Scripts\DataDrivenWithExamplesPro
 C:\Users\jenni\source\repos\GithubRepo\Project_Scripts\DataDrivenWithExamplesProject\DataDrivenWithExamplesProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\jenni\source\repos\GithubRepo\Project_Scripts\DataDrivenWithExamplesProject\DataDrivenWithExamplesProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\jenni\source\repos\GithubRepo\Project_Scripts\DataDrivenWithExamplesProject\DataDrivenWithExamplesProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jenni\source\repos\GithubRepo\Project_Scripts\DataDrivenWithExamplesProject\DataDrivenWithExamplesProject\obj\Debug\netcoreapp3.1\DataDrivenWithExamplesProject.csproj.AssemblyReference.cache
 C:\Users\jenni\source\repos\GithubRepo\Project_Scripts\DataDrivenWithExamplesProject\DataDrivenWithExamplesProject\obj\Debug\netcoreapp3.1\DataDrivenWithExamplesProject.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jenni\source\repos\GithubRepo\Project_Scripts\DataDrivenWithExamplesProject\DataDrivenWithExamplesProject\obj\Debug\netcoreapp3.1\DataDrivenWithExamplesProject.AssemblyInfoInputs.cache
 C:\Users\jenni\source\repos\GithubRepo\Project_Scripts\DataDrivenWithExamplesProject\DataDrivenWithExamplesProject\obj\Debug\netcoreapp3.1\DataDrivenWithExamplesProject.AssemblyInfo.cs
